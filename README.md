@@ -1,7 +1,7 @@
 # pitu
 A simple micro-SaaS for URL Shortening.
 
-O pitu é uma ferramenta que encurta urls e gerencia estatísticas de uso de sites facilitando a vida dos diversos usuários da rede mundialde computadores.
+O pitu é uma ferramenta que encurta urls e gerencia estatísticas de uso de sites facilitando a vida dos diversos usuários da rede mundial de computadores.
 
 para acessá-lo clique no link abaixo:
 
