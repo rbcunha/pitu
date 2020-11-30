@@ -1,3 +1,20 @@
+# pitu
+A simple micro-SaaS for URL Shortening.
+
+O pitu é uma ferramenta que encurta urls e gerencia estatísticas de uso de sites facilitando a vida dos diversos usuários da rede mundialde computadores.
+
+para acessá-lo clique no link abaixo:
+
+http://www.piturbsoft.tk.
+
+Instruções de uso
+
+Na janela que se abrirá, copie e cole a url que se quer encurtare clique no botão (ENCURTAR), copie o link encurtado e cole na janela de endereço do navegador e será  feito o redirecionamento para o site. Para acesso às estatísticas basta copiar o link gerado no final da página e colar no navegador.
+
+Aproveite esta ferramenta.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
